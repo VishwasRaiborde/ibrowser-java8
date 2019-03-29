@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+filesCopiedToWebInfLib=appengine-api-1.0-sdk-1.8.2.jar|appengine-api-labs.jar|appengine-endpoints.jar|appengine-jsr107cache-1.8.2.jar|asm-4.0.jar|datanucleus-api-jdo-3.1.3.jar|datanucleus-api-jpa-3.1.3.jar|datanucleus-appengine-2.1.2.jar|datanucleus-core-3.1.3.jar|geronimo-jpa_2.0_spec-1.0.jar|jdo-api-3.0.1.jar|jsr107cache-1.1.jar|jta-1.1.jar
+gaeDatanucleusEnabled=true
+gaeDatanucleusVersion=v2
+gaeDeployDialogSettings=
+gaeHrdEnabled=true
+gaeLaunchAppInBrowser=true
+googleCloudSqlEnabled=false
+localDevMySqlEnabled=true
+ormEnhancementInclusions=test/|templates/|src/|src/com/cloudsherpas/domain/Heading.java|src/com/cloudsherpas/domain/Report.java|src/com/cloudsherpas/domain/TradingYear.java|src/com/cloudsherpas/domain/Type.java|src/com/cloudsherpas/domain/GoogleGroup.java|src/com/cloudsherpas/domain/AppUser.java|src/com/cloudsherpas/domain/AuditLog.java|src/com/cloudsherpas/domain/GoogleGroupMember.java|src/com/cloudsherpas/domain/Instance.java|src/com/cloudsherpas/domain/News.java|src/com/cloudsherpas/domain/Notification.java|src/com/cloudsherpas/domain/PageToken.java|src/com/cloudsherpas/domain/Patch.java|src/com/cloudsherpas/domain/PatchInstance.java|src/com/cloudsherpas/domain/SavedBOGroup.java|src/com/cloudsherpas/domain/UserFavouriteReport.java
+validationExclusions=src/com/cloudsherpas/http/CronHandler.java|src/com/cloudsherpas/dao/InstanceDao.java
